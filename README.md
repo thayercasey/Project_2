@@ -28,5 +28,5 @@ Our goal is to build 4 different machine learning trading strategies for Bitcoin
   3. XGBoosted model that is trained on a variety of different trading feautures.
 
   
-  
-### Create powerpoint to demonstrate investment strategies to investors
+## Powerpoint
+https://docs.google.com/presentation/d/1S-RZBcq4gf58k_lm8dqQXbK5kQxBBaYATYLze_3-dxw/edit#slide=id.p
